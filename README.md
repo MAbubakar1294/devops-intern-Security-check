@@ -575,8 +575,8 @@ devops-intern-Security-check/
 │   └── workflows/
 │       └── security-checks.yml
 │
-└── SECURITY_CHECKS_DOCUMENTATION.md
+└── README.md
 ```
 
 **Workflow:** `.github/workflows/security-checks.yml`  
-**Documentation:** `SECURITY_CHECKS_DOCUMENTATION.md`
+**Documentation:** `README.md`
